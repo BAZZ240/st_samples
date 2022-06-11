@@ -1,2 +1,2 @@
 import streamlit as st
-st.title("konnnichiha")
+st.title("この野郎")
